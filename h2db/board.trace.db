@@ -1,0 +1,78 @@
+2021-01-27 01:03:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:03:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
+2021-01-27 01:04:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.id as id1_0_, user0_.created_date as created_2_0_, user0_.modified_date as modified3_0_, user0_.email as email4_0_, user0_.name as name5_0_, user0_.picture as picture6_0_, user0_.role as role7_0_ from user user0_ where user0_.email=? [42102-200]
