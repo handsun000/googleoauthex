@@ -18,7 +18,7 @@ import java.util.Collections;
 
 @RequiredArgsConstructor
 @Service
-public class CustomOAuth2UserService implements OAuth2UserService<OAuth2UserRequest, OAuth2User> {
+public class CustomOAuth2UserService implements OAuth2UserService<OAuth2UserRequest, OAuth2User> {      //OAuthAttributes을 기반으로 가입 및 정보수정, 세션 저장 등 기능 수행
 
     private final UserRepository userRepository;
     private final HttpSession httpSession;

@@ -8,7 +8,7 @@ import lombok.Getter;
 import java.util.Map;
 
 @Getter
-public class OAuthAttributes {
+public class OAuthAttributes {      //구글 로그인 이후 가져온 사용자의 이메일, 이름, 프로필 사진 주소 를 저장하는 DTO
 
     private final Map<String, Object> attributes;
     private final String nameAttributeKey;
